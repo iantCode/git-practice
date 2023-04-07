@@ -1,2 +1,2 @@
 # git-practice
-git practice playground
+git & github practice playground
